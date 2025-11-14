@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","27959","Purchase with Performance_Glitch_User","chromium","2025-11-15","passed","2025-11-15","Complete Purchase Journey","q3-performanceGlitchUser.spec.js","",""
+"","6113","Login with locked_out_user and display error message","chromium","2025-11-15","passed","2025-11-15","Locked Out User Test","q1-lockedOutUser.spec.js","",""
+"","2949","Purchase with standard_user","chromium","2025-11-15","passed","2025-11-15","Complete Purchase Journey","q2-completePurchase.spec.js","",""

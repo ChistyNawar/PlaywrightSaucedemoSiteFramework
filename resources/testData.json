@@ -1,0 +1,18 @@
+{
+    "users": {
+        "lockedOut":{
+            "username": "locked_out_user"
+        },
+        
+        "performance":{
+            "username": "performance_glitch_user"
+        },
+
+        "standard":{
+            "username": "standard_user"
+        }
+    },
+
+    "commonPassword": "secret_sauce"
+
+}

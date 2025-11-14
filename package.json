@@ -1,0 +1,23 @@
+{
+  "name": "playwright-saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "q1": "playwright test specs/q1-lockedOutUser.spec.js --headed",
+    "q2": "playwright test specs/q2-completePurchase.spec.js --headed",
+    "q3": "playwright test specs/q3-performanceGlitchUser.spec.js --headed",
+    "sequential": "playwright test --workers=1 --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.4.2"
+  }
+}
